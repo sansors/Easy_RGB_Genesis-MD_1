@@ -34,4 +34,4 @@ ArcadeTV for the original [RGB Bypass](https://www.sega-16.com/forum/showthread.
 
 [db-electronics](https://github.com/db-electronics) for the [Triple Bypass](https://github.com/db-electronics/triple-bypass-kicad)
 
-Thanks to bjron for his tests 
+Thanks to bjorn for his tests <3
