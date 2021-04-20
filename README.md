@@ -33,3 +33,5 @@ Please READ THE TUTO before install the board.
 ArcadeTV for the original [RGB Bypass](https://www.sega-16.com/forum/showthread.php?28736-RGB-Bypass-PCBs-for-MD1-MD2-SMS1-SMS2-NG-AES)
 
 [db-electronics](https://github.com/db-electronics) for the [Triple Bypass](https://github.com/db-electronics/triple-bypass-kicad)
+
+Thanks to bjron for his tests 
