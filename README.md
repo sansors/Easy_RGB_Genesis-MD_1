@@ -12,7 +12,7 @@ Please READ THE TUTO before install the board.
 
 # How to install step by step. 
 
-## 1.	Desoldering the FB9 fuse at the top of the motherboard.
+## 1.	Desoldering the FB9 inductor at the top of the motherboard.
 
 ![Desoldering FB9 Image](https://github.com/sansors/Easy_RGB_Genesis-MD_1/blob/main/FB9_remove.jpg)
 
